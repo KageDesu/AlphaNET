@@ -10,15 +10,15 @@
 ### Versions 
 > 🔷 Alpha NET : 0.6.774    
 > 🔶 Alpha NET Pro : **---** 🚫   
-> [Changelog]()
+> [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
 ### Download
 > **Required MV 1️⃣.6️⃣.1️⃣  and above**  
-⚠️ Read instruction first : [Download and install guide]()
+⚠️ Read instruction first : [Download and install guide](https://github.com/KageDesu/AlphaNET/wiki/Download-and-install-guide)
 
 | File | Description | Version |Link| 
 | --- | --- | --- | --- |
-|Alpha NET | Main plugin file | 0.6.774 | See [Releases]()
+|Alpha NET | Main plugin file | 0.6.774 | See [Releases](https://github.com/KageDesu/AlphaNET/releases)
 |Socket.IO | Core plugin for NET | 2.0.4 | [Download]()
 |Resources | Required Images and data | 1.0 | [Download]()
 |Server | For servers only | 1.0 | [Download]()
