@@ -5,7 +5,7 @@
 ⚠️ **Plugin in 🅱️ Beta state**
 
 📄 [Plugin Web Page](https://kagedesuworkshop.blogspot.com/p/alpha-net.html) (information and videos)  
-📄 [Wiki](https://github.com/KageDesu/AlphaNET/wiki) (documentation and F.A.Q)
+📄 [Wiki](https://github.com/KageDesu/AlphaNET/wiki) (documentation and F.A.Q)  
 🔴 [Patreon](https://www.patreon.com/KageDesu) (news, earlier updates, demos and exclusive features for patrons)
 
 ### Versions 
