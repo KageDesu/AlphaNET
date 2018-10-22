@@ -19,10 +19,10 @@
 
 | File | Description | Version |Link| 
 | --- | --- | --- | --- |
-|Alpha NET | Main plugin file | 0.6.774 | See [Releases](https://github.com/KageDesu/AlphaNET/releases)
-|Socket.IO | Core plugin for NET | 2.0.4 | [Download]()
-|Resources | Required Images and data | 1.0 | [Download]()
-|Server | For servers only | 1.0 | [Download]()
+|Alpha NET | Main plugin file | 0.6.774 | [Download](https://www.dropbox.com/s/t9v4ueoa1d76hl0/Alpha_NET_build.js?dl=0)
+|Socket.IO | Core plugin for NET | 2.0.4 | [Download](https://www.dropbox.com/s/7814an9yld78jts/SocketIO.js?dl=0)
+|Resources | Required Images and data | 1.0 | [Download](https://www.dropbox.com/s/5blmkwhdy29wes7/Resources_10.zip?dl=0)
+|Server | For servers only | 1.0 | [Download](https://www.dropbox.com/s/9v6qfhj09dvsgmq/server_10.zip?dl=0)
 
 
 ### Reporting Bugs 🐛 / Issues:
