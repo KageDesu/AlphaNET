@@ -9,7 +9,7 @@
 🔴 [Patreon](https://www.patreon.com/KageDesu) (news, earlier updates, demos and exclusive features for patrons)
 
 ### Versions 
-> 🔷 Alpha NET : 0.6.774    
+> 🔷 Alpha NET : 0.7.900    
 > 🔶 Alpha NET Pro : **---** 🚫   
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
