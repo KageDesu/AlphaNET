@@ -19,11 +19,11 @@
 
 | File | Description | Version |Link| 
 | --- | --- | --- | --- |
-|Alpha NET | Main plugin file | 0.6.774 | [Download](https://www.dropbox.com/s/t9v4ueoa1d76hl0/Alpha_NET_build.js?dl=0)
+|Alpha NET | Main plugin file | 0.7.900 (!new) | [Download](https://www.dropbox.com/s/ojqlcys1ytbp96m/Alpha_NET_build.js?dl=0)
 |Socket.IO | Core plugin for NET | 2.0.4 | [Download](https://www.dropbox.com/s/7814an9yld78jts/SocketIO.js?dl=0)
-|Resources | Required Images and data | 1.0 | [Download](https://www.dropbox.com/s/5blmkwhdy29wes7/Resources_10.zip?dl=0)
+|Resources | Required Images and data | 1.1 (!new) | [Download](https://www.dropbox.com/s/12w41kxg3gjx4sr/Resources_11.zip?dl=0)
 |Server | For servers only | 1.0 | [Download](https://www.dropbox.com/s/9v6qfhj09dvsgmq/server_10.zip?dl=0)
-
+|Demo | Project with Examples (~300 mb) | 0.7.900 | [Download](https://www.dropbox.com/s/p08hmegr72gu817/AlphaNET_0.7.900_Demo.rar?dl=0)
 
 ### Reporting Bugs 🐛 / Issues:
 [Forum Thread](https://forums.rpgmakerweb.com/index.php?threads/alpha-net-rpg-mv-multiplayer.92246/)
