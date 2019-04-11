@@ -10,7 +10,7 @@
 
 ### Versions 
 > 🔷 Alpha NET : 0.7.900    
-> 🔶 Alpha NET Pro : **---** 🚫   
+> 🔶 Alpha NET Pro : 0.8.1200   
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
 ### Download
