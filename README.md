@@ -9,8 +9,8 @@
 🔴 [Patreon](https://www.patreon.com/KageDesu) (news, earlier updates, demos and exclusive features for patrons)
 
 ### Versions 
-> 🔷 Alpha NET : 0.7.900    
-> 🔶 Alpha NET Pro : 0.8.1200   
+> 🔷 Alpha NET Public Build: 900    
+> 🔶 Alpha NET PRO Build: 1250   
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
 ### Download
@@ -19,7 +19,7 @@
 
 | File | Description | Version |Link| 
 | --- | --- | --- | --- |
-|Alpha NET | Main plugin file | 0.7.900 (!new) | [Download](https://www.dropbox.com/s/ojqlcys1ytbp96m/Alpha_NET_build.js?dl=0)
+|Alpha NET | Main plugin file | 0.7.900 | [Download](https://www.dropbox.com/s/ojqlcys1ytbp96m/Alpha_NET_build.js?dl=0)
 |Socket.IO | Core plugin for NET | 2.0.4 | [Download](https://www.dropbox.com/s/7814an9yld78jts/SocketIO.js?dl=0)
 |Resources | Required Images and data | 1.1 (!new) | [Download](https://www.dropbox.com/s/12w41kxg3gjx4sr/Resources_11.zip?dl=0)
 |Server | For servers only | 1.0 | [Download](https://www.dropbox.com/s/9v6qfhj09dvsgmq/server_10.zip?dl=0)
