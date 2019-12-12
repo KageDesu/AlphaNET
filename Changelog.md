@@ -1,5 +1,10 @@
 ## Builds:
 
+📦 **1300** - 12.12.2019  
+> - Added [NET ABS](https://github.com/KageDesu/AlphaNET/wiki/NET-ABS) support  
+> - small changes and fixes in the net-code  
+
+
 📦 **1250** - 31.10.2019  
 > - Fixed bug with actors rename _(`Name Input Processing` works only for game host)_
 > - Start beta information text deleted _(Welcome to Alpha NET...)_
