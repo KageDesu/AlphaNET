@@ -1,8 +1,7 @@
 ![](https://github.com/KageDesu/TestRepo/blob/master/TitleName.png)
 
-## Multiplayer plugin for RPG Maker MV.
+## Multiplayer (P2P) plugin for RPG Maker MV.
 
-⚠️ **Plugin in 🅱️ Beta state**
 
 📄 [Plugin Web Page](https://kagedesuworkshop.blogspot.com/p/alpha-net.html) (information and videos)  
 📄 [Wiki](https://github.com/KageDesu/AlphaNET/wiki) (documentation and F.A.Q)  
@@ -10,8 +9,12 @@
 
 ### Versions 
 > 🔷 Alpha NET Public Build: 900    
-> 🔶 Alpha NET PRO Build: 1250   
+> 🔶 Alpha NET PRO Build: 1300   
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
+
+
+> 💣 NET ABS Build: 100 🅱️ `Beta`  
+> [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog_ABS.md)
 
 ### Download
 > **Required MV 1️⃣.6️⃣.1️⃣  and above**  
@@ -19,11 +22,11 @@
 
 | File | Description | Version |Link| 
 | --- | --- | --- | --- |
-|Alpha NET | Main plugin file | 0.7.900 | [Download](https://www.dropbox.com/s/ojqlcys1ytbp96m/Alpha_NET_build.js?dl=0)
+|Alpha NET | Main plugin file | 900 | [Download](https://www.dropbox.com/s/ojqlcys1ytbp96m/Alpha_NET_build.js?dl=0)
 |Socket.IO | Core plugin for NET | 2.0.4 | [Download](https://www.dropbox.com/s/7814an9yld78jts/SocketIO.js?dl=0)
 |Resources | Required Images and data | 1.1 (!new) | [Download](https://www.dropbox.com/s/12w41kxg3gjx4sr/Resources_11.zip?dl=0)
 |Server | For servers only | 1.0 | [Download](https://www.dropbox.com/s/9v6qfhj09dvsgmq/server_10.zip?dl=0)
-|Demo | Project with Examples (~300 mb) | 0.7.900 | [Download](https://www.dropbox.com/s/p08hmegr72gu817/AlphaNET_0.7.900_Demo.rar?dl=0)
+|Demo | Project with Examples (~300 mb) | 900 | [Download](https://www.dropbox.com/s/p08hmegr72gu817/AlphaNET_0.7.900_Demo.rar?dl=0)
 
 ### Reporting Bugs 🐛 / Issues:
 [Forum Thread](https://forums.rpgmakerweb.com/index.php?threads/alpha-net-rpg-mv-multiplayer.92246/)
