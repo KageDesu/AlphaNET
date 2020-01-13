@@ -8,12 +8,12 @@
 🔴 [Patreon](https://www.patreon.com/KageDesu) (news, earlier updates, demos and exclusive features for patrons)
 
 ### Versions 
-> 🔷 Alpha NET Public Build: 900    
-> 🔶 Alpha NET PRO Build: 1300   
+> 🔷 Alpha NET Public Build: 900 _(without NET ABS support)_  
+> 🔶 Alpha NET PRO Build: 1310 **(with NET ABS support)**  
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
 
-> 💣 NET ABS Build: 100 🅱️ `Beta`  
+> 💣 NET ABS Build: 200 🅱️ `Beta`  
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog_ABS.md)
 
 ### Download
