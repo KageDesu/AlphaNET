@@ -3,6 +3,7 @@
 📦 **1310** - 13.01.2020
 > - Added new plugin command `NET setVariableSync ID`, see [Wiki](https://github.com/KageDesu/AlphaNET/wiki/Events-and-Network)  
 > - Added new plugin parameter `Party List in Multiplayer GM?` (Show another players in menu or not?)  
+> - Fixed bug: `NET virtual` and Script Calls not works  
 > - small changes and fixes in the net-code  
 
 📦 **1300** - 12.12.2019  
