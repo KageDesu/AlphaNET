@@ -38,3 +38,4 @@
 ## TERMS OF USE FOR COMMERCIAL 💲:
 📄 [**Information**](https://github.com/KageDesu/AlphaNET/wiki/USE-FOR-COMMERCIAL)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81FBXW)
