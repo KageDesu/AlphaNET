@@ -1,5 +1,13 @@
 ## Builds:
 
+📦 **1320** - 18.04.2020
+> - Added new plugin parameter `Maps with PvP restriction` (Allow disable PvP on certain maps)  
+> - Fixed bug: message `Server is Full` when you try start server with party members  
+> - Fixed bug: Network error if select `Nothing` item in Trade window  
+> - Added **Map Encounters** support  
+> - small changes and fixes in the net-code  
+
+
 📦 **1310** - 13.01.2020
 > - Added new plugin command `NET setVariableSync ID`, see [Wiki](https://github.com/KageDesu/AlphaNET/wiki/Events-and-Network)  
 > - Added new plugin parameter `Party List in Multiplayer GM?` (Show another players in menu or not?)  
