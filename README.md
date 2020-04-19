@@ -13,7 +13,7 @@
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
 
-> 💣 NET ABS Build: 200 🅱️ `Beta`  
+> 💣 NET ABS Build: 300 🅱️ `Beta`  
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog_ABS.md)
 
 ### Download
