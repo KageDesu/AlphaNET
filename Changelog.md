@@ -1,5 +1,12 @@
 ## Builds:
 
+📦 **1330** - 31.07.2020
+> - Now player can select character when connect to the game  
+> - Fixed bug: `NET sync` is always starts in condition branches
+> - Fixed bug: Shared (global `NET`) events movement synchronization
+> - Added [Map Inventory](https://kagedesuworkshop.blogspot.com/p/map-inventory.html) plugin support    
+> - small changes and fixes in the net-code  
+
 📦 **1320** - 18.04.2020
 > - Added new plugin parameter `Maps with PvP restriction` (Allow disable PvP on certain maps)  
 > - Fixed bug: message `Server is Full` when you try start server with party members  
