@@ -9,7 +9,7 @@
 
 ### Versions 
 > 🔷 Alpha NET Public Build: 900 _(without NET ABS support)_  
-> 🔶 Alpha NET PRO Build: 1320 **(with NET ABS support)**  
+> 🔶 Alpha NET PRO Build: 1330 **(with NET ABS support)**  
 > [Changelog](https://github.com/KageDesu/AlphaNET/blob/master/Changelog.md)
 
 
