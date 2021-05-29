@@ -37,4 +37,5 @@ Plugin not supported anymore, please use [Alpha NET Z](https://kdworkshop.net/pl
 *(Attribution Non-Commercial Share Alike, cc by-nc-sa)*
 
 ## USE FOR COMMERCIAL 💲:
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81FBXW)
+[Buy license](https://ko-fi.com/s/d0418d3144)  
+
