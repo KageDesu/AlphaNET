@@ -2,6 +2,7 @@
 
 ## Multiplayer (P2P) plugin for RPG Maker MV.
 
+# WARNING. Plugin is Deprecated and repalaced by [Alpha NET Z](https://kdworkshop.net/plugins/alpha-net-z/)  
 
 📄 [Plugin Web Page](https://kagedesuworkshop.blogspot.com/p/alpha-net.html) (information and videos)  
 📄 [Wiki](https://github.com/KageDesu/AlphaNET/wiki) (documentation and F.A.Q)  
@@ -26,10 +27,10 @@
 |Socket.IO | Core plugin for NET | 2.0.4 | [Download](https://www.dropbox.com/s/7814an9yld78jts/SocketIO.js?dl=0)
 |Resources | Required Images and data | 1.1 (!new) | [Download](https://www.dropbox.com/s/12w41kxg3gjx4sr/Resources_11.zip?dl=0)
 |Server | For servers only | 1.0 | [Download](https://www.dropbox.com/s/9v6qfhj09dvsgmq/server_10.zip?dl=0)
-|Demo | Project with Examples (~300 mb) | 900 | [Download](https://www.dropbox.com/s/p08hmegr72gu817/AlphaNET_0.7.900_Demo.rar?dl=0)
+|Demo | Project with Examples (~300 mb) | 900 | [Download](https://mega.nz/file/QFwhhK7D#pFjKjxOjoGxuygNMkbdL_jaiKK6LjhcjFDA8aQH2EYE)
 
 ### Reporting Bugs 🐛 / Issues:
-[Forum Thread](https://forums.rpgmakerweb.com/index.php?threads/alpha-net-rpg-mv-multiplayer.92246/)
+Plugin not supported anymore, please use [Alpha NET Z](https://kdworkshop.net/plugins/alpha-net-z/) instead
 
 ## TERMS OF USE FOR NON-COMMERCIAL:
 `Creative Commons 4.0 Attribution, Share Alike, Non-Commercial`  
