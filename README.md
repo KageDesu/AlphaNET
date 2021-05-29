@@ -36,7 +36,5 @@ Plugin not supported anymore, please use [Alpha NET Z](https://kdworkshop.net/pl
 `Creative Commons 4.0 Attribution, Share Alike, Non-Commercial`  
 *(Attribution Non-Commercial Share Alike, cc by-nc-sa)*
 
-## TERMS OF USE FOR COMMERCIAL 💲:
-📄 [**Information**](https://github.com/KageDesu/AlphaNET/wiki/USE-FOR-COMMERCIAL)
-
+## USE FOR COMMERCIAL 💲:
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81FBXW)
